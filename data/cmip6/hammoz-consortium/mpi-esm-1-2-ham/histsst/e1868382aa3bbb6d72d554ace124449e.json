@@ -1,0 +1,41 @@
+{
+    "_hash_id": "e1868382aa3bbb6d72d554ace124449e", 
+    "activity_id": [
+        "AerChemMIP"
+    ], 
+    "branch_time_in_child": "1850-01-01T00:00:00Z", 
+    "branch_time_in_parent": "1850-01-01T00:00:00Z", 
+    "calendar": "proleptic_gregorian", 
+    "contact": "david.neubauer@env.ethz.ch", 
+    "dataset_versions": [
+        "v20190628"
+    ], 
+    "end_time": "2015-01-01T00:00:00Z", 
+    "experiment_id": "histSST", 
+    "filenames": [
+        "/mnt/lustre02/work/ik1017/CMIP6/data/CMIP6/AerChemMIP/HAMMOZ-Consortium/MPI-ESM-1-2-HAM/histSST/r1i1p1f1/3hr/hfss/gn/v20190628/hfss_3hr_MPI-ESM-1-2-HAM_histSST_r1i1p1f1_gn_185001010130-186912312230.nc", 
+        "/mnt/lustre02/work/ik1017/CMIP6/data/CMIP6/AerChemMIP/HAMMOZ-Consortium/MPI-ESM-1-2-HAM/histSST/r1i1p1f1/3hr/hfss/gn/v20190628/hfss_3hr_MPI-ESM-1-2-HAM_histSST_r1i1p1f1_gn_187001010130-188912312230.nc", 
+        "/mnt/lustre02/work/ik1017/CMIP6/data/CMIP6/AerChemMIP/HAMMOZ-Consortium/MPI-ESM-1-2-HAM/histSST/r1i1p1f1/3hr/hfss/gn/v20190628/hfss_3hr_MPI-ESM-1-2-HAM_histSST_r1i1p1f1_gn_189001010130-190912312230.nc", 
+        "/mnt/lustre02/work/ik1017/CMIP6/data/CMIP6/AerChemMIP/HAMMOZ-Consortium/MPI-ESM-1-2-HAM/histSST/r1i1p1f1/3hr/hfss/gn/v20190628/hfss_3hr_MPI-ESM-1-2-HAM_histSST_r1i1p1f1_gn_191001010130-192912312230.nc", 
+        "/mnt/lustre02/work/ik1017/CMIP6/data/CMIP6/AerChemMIP/HAMMOZ-Consortium/MPI-ESM-1-2-HAM/histSST/r1i1p1f1/3hr/hfss/gn/v20190628/hfss_3hr_MPI-ESM-1-2-HAM_histSST_r1i1p1f1_gn_193001010130-194912312230.nc", 
+        "/mnt/lustre02/work/ik1017/CMIP6/data/CMIP6/AerChemMIP/HAMMOZ-Consortium/MPI-ESM-1-2-HAM/histSST/r1i1p1f1/3hr/hfss/gn/v20190628/hfss_3hr_MPI-ESM-1-2-HAM_histSST_r1i1p1f1_gn_195001010130-196912312230.nc", 
+        "/mnt/lustre02/work/ik1017/CMIP6/data/CMIP6/AerChemMIP/HAMMOZ-Consortium/MPI-ESM-1-2-HAM/histSST/r1i1p1f1/3hr/hfss/gn/v20190628/hfss_3hr_MPI-ESM-1-2-HAM_histSST_r1i1p1f1_gn_197001010130-198912312230.nc", 
+        "/mnt/lustre02/work/ik1017/CMIP6/data/CMIP6/AerChemMIP/HAMMOZ-Consortium/MPI-ESM-1-2-HAM/histSST/r1i1p1f1/3hr/hfss/gn/v20190628/hfss_3hr_MPI-ESM-1-2-HAM_histSST_r1i1p1f1_gn_199001010130-200912312230.nc", 
+        "/mnt/lustre02/work/ik1017/CMIP6/data/CMIP6/AerChemMIP/HAMMOZ-Consortium/MPI-ESM-1-2-HAM/histSST/r1i1p1f1/3hr/hfss/gn/v20190628/hfss_3hr_MPI-ESM-1-2-HAM_histSST_r1i1p1f1_gn_201001010130-201412312230.nc"
+    ], 
+    "forcing_index": 1, 
+    "further_info_url": "https://furtherinfo.es-doc.org/CMIP6.HAMMOZ-Consortium.MPI-ESM-1-2-HAM.histSST.none.r1i1p1f1", 
+    "initialization_index": 1, 
+    "institution_id": "HAMMOZ-Consortium", 
+    "mip_era": "CMIP6", 
+    "parent_forcing_index": 1, 
+    "parent_initialization_index": 1, 
+    "parent_physics_index": 1, 
+    "parent_realization_index": 1, 
+    "physics_index": 1, 
+    "realization_index": 1, 
+    "references": "MPI-ESM1.2-HAM: Mauritsen, T. et al. (2019), Developments in the MPIM Earth System Model version 1.2 (MPIESM1.2) and Its Response to Increasing CO2, J. Adv. Model. Earth Syst.,11, 998-1038, doi:10.1029/2018MS001400,\nTegen, I. et al. (2019), The global aerosol-climate model ECHAM6.3-HAM2.3  Part 1: Aerosol evaluation, Geosci. Model Dev., 12, 16431677, https://doi.org/10.5194/gmd-12-1643-2019", 
+    "source_id": "MPI-ESM-1-2-HAM", 
+    "start_time": "1850-01-01T00:00:00Z", 
+    "sub_experiment_id": "none"
+}

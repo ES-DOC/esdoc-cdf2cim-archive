@@ -1,0 +1,39 @@
+{
+    "_hash_id": "98f5cb8f731d1336665f7b61c6a9e1ee", 
+    "activity_id": [
+        "DCPP"
+    ], 
+    "branch_time_in_child": "1850-01-01T00:00:00Z", 
+    "branch_time_in_parent": "1850-01-01T00:00:00Z", 
+    "calendar": "360_day", 
+    "dataset_versions": [
+        "v20200908"
+    ], 
+    "end_time": "2001-04-01T00:00:00Z", 
+    "experiment_id": "dcppC-hindcast-noPinatubo", 
+    "filenames": [
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noPinatubo/s1990-r4i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noPinatubo_s1990-r4i1p1f2_gn_19901101-19901230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noPinatubo/s1990-r4i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noPinatubo_s1990-r4i1p1f2_gn_19910101-19911230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noPinatubo/s1990-r4i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noPinatubo_s1990-r4i1p1f2_gn_19920101-19921230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noPinatubo/s1990-r4i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noPinatubo_s1990-r4i1p1f2_gn_19930101-19931230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noPinatubo/s1990-r4i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noPinatubo_s1990-r4i1p1f2_gn_19940101-19941230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noPinatubo/s1990-r4i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noPinatubo_s1990-r4i1p1f2_gn_19950101-19951230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noPinatubo/s1990-r4i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noPinatubo_s1990-r4i1p1f2_gn_19960101-19961230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noPinatubo/s1990-r4i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noPinatubo_s1990-r4i1p1f2_gn_19970101-19971230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noPinatubo/s1990-r4i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noPinatubo_s1990-r4i1p1f2_gn_19980101-19981230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noPinatubo/s1990-r4i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noPinatubo_s1990-r4i1p1f2_gn_19990101-19991230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noPinatubo/s1990-r4i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noPinatubo_s1990-r4i1p1f2_gn_20000101-20001230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noPinatubo/s1990-r4i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noPinatubo_s1990-r4i1p1f2_gn_20010101-20010330.nc"
+    ], 
+    "forcing_index": 2, 
+    "further_info_url": "https://furtherinfo.es-doc.org/CMIP6.MOHC.HadGEM3-GC31-MM.dcppC-hindcast-noPinatubo.s1990.r4i1p1f2", 
+    "initialization_index": 1, 
+    "institution_id": "MOHC", 
+    "mip_era": "CMIP6", 
+    "physics_index": 1, 
+    "realization_index": 4, 
+    "references": "Williams, K., et al: The Met Office Global Coupled model 3.0 and 3.1 (GC3.0 & GC3.1) configurations. JAMES, 10, 357-380 (2017).", 
+    "source_id": "HadGEM3-GC31-MM", 
+    "start_time": "1990-11-01T00:00:00Z", 
+    "sub_experiment_id": "s1990"
+}

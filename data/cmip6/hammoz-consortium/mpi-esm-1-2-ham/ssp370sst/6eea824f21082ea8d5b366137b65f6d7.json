@@ -1,0 +1,35 @@
+{
+    "_hash_id": "6eea824f21082ea8d5b366137b65f6d7", 
+    "activity_id": [
+        "AerChemMIP"
+    ], 
+    "branch_time_in_child": "2015-01-01T00:00:00Z", 
+    "branch_time_in_parent": "2015-01-01T00:00:00Z", 
+    "calendar": "proleptic_gregorian", 
+    "contact": "david.neubauer@env.ethz.ch", 
+    "dataset_versions": [
+        "v20190628"
+    ], 
+    "end_time": "2056-01-01T00:00:00Z", 
+    "experiment_id": "ssp370SST", 
+    "filenames": [
+        "/mnt/lustre02/work/ik1017/CMIP6/data/CMIP6/AerChemMIP/HAMMOZ-Consortium/MPI-ESM-1-2-HAM/ssp370SST/r1i1p1f1/Eday/ta850/gn/v20190628/ta850_Eday_MPI-ESM-1-2-HAM_ssp370SST_r1i1p1f1_gn_20150101-20341231.nc", 
+        "/mnt/lustre02/work/ik1017/CMIP6/data/CMIP6/AerChemMIP/HAMMOZ-Consortium/MPI-ESM-1-2-HAM/ssp370SST/r1i1p1f1/Eday/ta850/gn/v20190628/ta850_Eday_MPI-ESM-1-2-HAM_ssp370SST_r1i1p1f1_gn_20350101-20541231.nc", 
+        "/mnt/lustre02/work/ik1017/CMIP6/data/CMIP6/AerChemMIP/HAMMOZ-Consortium/MPI-ESM-1-2-HAM/ssp370SST/r1i1p1f1/Eday/ta850/gn/v20190628/ta850_Eday_MPI-ESM-1-2-HAM_ssp370SST_r1i1p1f1_gn_20550101-20551231.nc"
+    ], 
+    "forcing_index": 1, 
+    "further_info_url": "https://furtherinfo.es-doc.org/CMIP6.HAMMOZ-Consortium.MPI-ESM-1-2-HAM.ssp370SST.none.r1i1p1f1", 
+    "initialization_index": 1, 
+    "institution_id": "HAMMOZ-Consortium", 
+    "mip_era": "CMIP6", 
+    "parent_forcing_index": 1, 
+    "parent_initialization_index": 1, 
+    "parent_physics_index": 1, 
+    "parent_realization_index": 1, 
+    "physics_index": 1, 
+    "realization_index": 1, 
+    "references": "MPI-ESM1.2-HAM: Mauritsen, T. et al. (2019), Developments in the MPIM Earth System Model version 1.2 (MPIESM1.2) and Its Response to Increasing CO2, J. Adv. Model. Earth Syst.,11, 998-1038, doi:10.1029/2018MS001400,\nTegen, I. et al. (2019), The global aerosol-climate model ECHAM6.3-HAM2.3  Part 1: Aerosol evaluation, Geosci. Model Dev., 12, 16431677, https://doi.org/10.5194/gmd-12-1643-2019", 
+    "source_id": "MPI-ESM-1-2-HAM", 
+    "start_time": "2015-01-01T00:00:00Z", 
+    "sub_experiment_id": "none"
+}

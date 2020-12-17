@@ -1,0 +1,39 @@
+{
+    "_hash_id": "63f097dbbe05d95793b430e18ec7ed5f", 
+    "activity_id": [
+        "DCPP"
+    ], 
+    "branch_time_in_child": "1850-01-01T00:00:00Z", 
+    "branch_time_in_parent": "1850-01-01T00:00:00Z", 
+    "calendar": "360_day", 
+    "dataset_versions": [
+        "v20200908"
+    ], 
+    "end_time": "1992-04-01T00:00:00Z", 
+    "experiment_id": "dcppC-hindcast-noElChichon", 
+    "filenames": [
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noElChichon/s1981-r8i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noElChichon_s1981-r8i1p1f2_gn_19811101-19811230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noElChichon/s1981-r8i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noElChichon_s1981-r8i1p1f2_gn_19820101-19821230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noElChichon/s1981-r8i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noElChichon_s1981-r8i1p1f2_gn_19830101-19831230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noElChichon/s1981-r8i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noElChichon_s1981-r8i1p1f2_gn_19840101-19841230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noElChichon/s1981-r8i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noElChichon_s1981-r8i1p1f2_gn_19850101-19851230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noElChichon/s1981-r8i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noElChichon_s1981-r8i1p1f2_gn_19860101-19861230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noElChichon/s1981-r8i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noElChichon_s1981-r8i1p1f2_gn_19870101-19871230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noElChichon/s1981-r8i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noElChichon_s1981-r8i1p1f2_gn_19880101-19881230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noElChichon/s1981-r8i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noElChichon_s1981-r8i1p1f2_gn_19890101-19891230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noElChichon/s1981-r8i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noElChichon_s1981-r8i1p1f2_gn_19900101-19901230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noElChichon/s1981-r8i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noElChichon_s1981-r8i1p1f2_gn_19910101-19911230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noElChichon/s1981-r8i1p1f2/day/pr/gn/v20200908/pr_day_HadGEM3-GC31-MM_dcppC-hindcast-noElChichon_s1981-r8i1p1f2_gn_19920101-19920330.nc"
+    ], 
+    "forcing_index": 2, 
+    "further_info_url": "https://furtherinfo.es-doc.org/CMIP6.MOHC.HadGEM3-GC31-MM.dcppC-hindcast-noElChichon.s1981.r8i1p1f2", 
+    "initialization_index": 1, 
+    "institution_id": "MOHC", 
+    "mip_era": "CMIP6", 
+    "physics_index": 1, 
+    "realization_index": 8, 
+    "references": "Williams, K., et al: The Met Office Global Coupled model 3.0 and 3.1 (GC3.0 & GC3.1) configurations. JAMES, 10, 357-380 (2017).", 
+    "source_id": "HadGEM3-GC31-MM", 
+    "start_time": "1981-11-01T00:00:00Z", 
+    "sub_experiment_id": "s1981"
+}

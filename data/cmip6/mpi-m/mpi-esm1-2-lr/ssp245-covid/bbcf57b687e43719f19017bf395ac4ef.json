@@ -1,0 +1,34 @@
+{
+    "_hash_id": "bbcf57b687e43719f19017bf395ac4ef", 
+    "activity_id": [
+        "DAMIP"
+    ], 
+    "branch_time_in_child": "2020-01-01T00:00:00Z", 
+    "branch_time_in_parent": "2020-01-01T00:00:00Z", 
+    "calendar": "proleptic_gregorian", 
+    "contact": "cmip6-mpi-esm@dkrz.de", 
+    "dataset_versions": [
+        "v20190710"
+    ], 
+    "end_time": "2025-01-01T00:00:00Z", 
+    "experiment_id": "ssp245-covid", 
+    "filenames": [
+        "/mnt/lustre02/work/ik1017/CMIP6/data/CMIP6/DAMIP/MPI-M/MPI-ESM1-2-LR/ssp245-covid/r1i1p1f99/Omon/popos/gn/v20190710/popos_Omon_MPI-ESM1-2-LR_ssp245-covid_r1i1p1f99_gn_202001-202412.nc"
+    ], 
+    "forcing_index": 99, 
+    "further_info_url": "https://furtherinfo.es-doc.org/CMIP6.MPI-M.MPI-ESM1-2-LR.ssp245-covid.none.r1i1p1f99", 
+    "initialization_index": 1, 
+    "institution_id": "MPI-M", 
+    "mip_era": "CMIP6", 
+    "parent_forcing_index": 99, 
+    "parent_initialization_index": 1, 
+    "parent_physics_index": 1, 
+    "parent_realization_index": 1, 
+    "physics_index": 1, 
+    "realization_index": 1, 
+    "references": "MPI-ESM: Mauritsen, T. et al. (2019), Developments in the MPIM Earth System Model version 1.2 (MPIESM1.2) and Its Response to Increasing CO2, J. Adv. Model. Earth Syst.,11, 998-1038, doi:10.1029/2018MS001400,\nMueller, W.A. et al. (2018): A highresolution version of the Max Planck Institute Earth System Model MPIESM1.2HR. J. Adv. Model. EarthSyst.,10,13831413, doi:10.1029/2017MS001217", 
+    "source_id": "MPI-ESM1-2-LR", 
+    "start_time": "2020-01-01T00:00:00Z", 
+    "sub_experiment_id": "none", 
+    "variant_info": "Emission driven. Branched from an emission driven ssp245 run with updated aerosol forcing\n(MACv2.0-SP_scenario_baseline: https://doi.org/10.1002/essoar.10504704.1) in 2020 that branched\nfrom an emission driven historical run in 2015."
+}

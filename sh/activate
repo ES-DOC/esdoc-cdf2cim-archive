@@ -1,0 +1,10 @@
+# ###############################################################
+# SECTION: SETUP
+# ###############################################################
+
+# Set home path
+export CDF2CIM_ARCHIVE_HOME="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+export CDF2CIM_ARCHIVE_HOME="$( cd "$( dirname "${CDF2CIM_ARCHIVE_HOME[0]}" )" && pwd )"
+
+# Set python path
+export PYTHONPATH=$CDF2CIM_ARCHIVE_HOME:$PYTHONPATH
