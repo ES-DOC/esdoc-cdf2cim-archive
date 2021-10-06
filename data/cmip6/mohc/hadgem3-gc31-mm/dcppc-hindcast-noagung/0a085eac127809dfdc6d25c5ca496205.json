@@ -1,0 +1,39 @@
+{
+    "_hash_id": "0a085eac127809dfdc6d25c5ca496205", 
+    "activity_id": [
+        "DCPP"
+    ], 
+    "branch_time_in_child": "1850-01-01T00:00:00Z", 
+    "branch_time_in_parent": "1850-01-01T00:00:00Z", 
+    "calendar": "360_day", 
+    "dataset_versions": [
+        "v20200908"
+    ], 
+    "end_time": "1973-04-01T00:00:00Z", 
+    "experiment_id": "dcppC-hindcast-noAgung", 
+    "filenames": [
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noAgung/s1962-r6i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-hindcast-noAgung_s1962-r6i1p1f2_gn_19621101-19621230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noAgung/s1962-r6i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-hindcast-noAgung_s1962-r6i1p1f2_gn_19630101-19631230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noAgung/s1962-r6i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-hindcast-noAgung_s1962-r6i1p1f2_gn_19640101-19641230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noAgung/s1962-r6i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-hindcast-noAgung_s1962-r6i1p1f2_gn_19650101-19651230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noAgung/s1962-r6i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-hindcast-noAgung_s1962-r6i1p1f2_gn_19660101-19661230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noAgung/s1962-r6i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-hindcast-noAgung_s1962-r6i1p1f2_gn_19670101-19671230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noAgung/s1962-r6i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-hindcast-noAgung_s1962-r6i1p1f2_gn_19680101-19681230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noAgung/s1962-r6i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-hindcast-noAgung_s1962-r6i1p1f2_gn_19690101-19691230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noAgung/s1962-r6i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-hindcast-noAgung_s1962-r6i1p1f2_gn_19700101-19701230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noAgung/s1962-r6i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-hindcast-noAgung_s1962-r6i1p1f2_gn_19710101-19711230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noAgung/s1962-r6i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-hindcast-noAgung_s1962-r6i1p1f2_gn_19720101-19721230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-hindcast-noAgung/s1962-r6i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-hindcast-noAgung_s1962-r6i1p1f2_gn_19730101-19730330.nc"
+    ], 
+    "forcing_index": 2, 
+    "further_info_url": "https://furtherinfo.es-doc.org/CMIP6.MOHC.HadGEM3-GC31-MM.dcppC-hindcast-noAgung.s1962.r6i1p1f2", 
+    "initialization_index": 1, 
+    "institution_id": "MOHC", 
+    "mip_era": "CMIP6", 
+    "physics_index": 1, 
+    "realization_index": 6, 
+    "references": "Williams, K., et al: The Met Office Global Coupled model 3.0 and 3.1 (GC3.0 & GC3.1) configurations. JAMES, 10, 357-380 (2017).", 
+    "source_id": "HadGEM3-GC31-MM", 
+    "start_time": "1962-11-01T00:00:00Z", 
+    "sub_experiment_id": "s1962"
+}

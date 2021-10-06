@@ -1,0 +1,33 @@
+{
+    "_hash_id": "e4953770d64fa06652c45822b8a66c6a", 
+    "activity_id": [
+        "DAMIP"
+    ], 
+    "branch_time_in_child": "1850-01-01T00:00:00Z", 
+    "branch_time_in_parent": "1941-01-01T00:00:00Z", 
+    "calendar": "gregorian", 
+    "contact": "contact.cmip@meteo.fr", 
+    "dataset_versions": [
+        "v20201208"
+    ], 
+    "end_time": "2021-01-01T00:00:00Z", 
+    "experiment_id": "hist-GHG", 
+    "filenames": [
+        "/data/cnrm/CMIP6/DAMIP/CNRM-CERFACS/CNRM-CM6-1/hist-GHG/r3i1p1f2/Omon/tos/gn/v20201208/tos_Omon_CNRM-CM6-1_hist-GHG_r3i1p1f2_gn_185001-202012.nc"
+    ], 
+    "forcing_index": 2, 
+    "further_info_url": "https://furtherinfo.es-doc.org/CMIP6.CNRM-CERFACS.CNRM-CM6-1.hist-GHG.none.r3i1p1f2", 
+    "initialization_index": 1, 
+    "institution_id": "CNRM-CERFACS", 
+    "mip_era": "CMIP6", 
+    "parent_forcing_index": 2, 
+    "parent_initialization_index": 1, 
+    "parent_physics_index": 1, 
+    "parent_realization_index": 1, 
+    "physics_index": 1, 
+    "realization_index": 3, 
+    "references": "http://www.umr-cnrm.fr/cmip6/references", 
+    "source_id": "CNRM-CM6-1", 
+    "start_time": "1850-01-01T00:00:00Z", 
+    "sub_experiment_id": "none"
+}

@@ -1,0 +1,39 @@
+{
+    "_hash_id": "01b8a789e2c699c9a3e0d35bb5cc7bcf", 
+    "activity_id": [
+        "DCPP"
+    ], 
+    "branch_time_in_child": "1850-01-01T00:00:00Z", 
+    "branch_time_in_parent": "1850-01-01T00:00:00Z", 
+    "calendar": "360_day", 
+    "dataset_versions": [
+        "v20200908"
+    ], 
+    "end_time": "2025-04-01T00:00:00Z", 
+    "experiment_id": "dcppC-forecast-addElChichon", 
+    "filenames": [
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-forecast-addElChichon/s2014-r2i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-forecast-addElChichon_s2014-r2i1p1f2_gn_20141101-20141230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-forecast-addElChichon/s2014-r2i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-forecast-addElChichon_s2014-r2i1p1f2_gn_20150101-20151230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-forecast-addElChichon/s2014-r2i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-forecast-addElChichon_s2014-r2i1p1f2_gn_20160101-20161230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-forecast-addElChichon/s2014-r2i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-forecast-addElChichon_s2014-r2i1p1f2_gn_20170101-20171230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-forecast-addElChichon/s2014-r2i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-forecast-addElChichon_s2014-r2i1p1f2_gn_20180101-20181230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-forecast-addElChichon/s2014-r2i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-forecast-addElChichon_s2014-r2i1p1f2_gn_20190101-20191230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-forecast-addElChichon/s2014-r2i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-forecast-addElChichon_s2014-r2i1p1f2_gn_20200101-20201230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-forecast-addElChichon/s2014-r2i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-forecast-addElChichon_s2014-r2i1p1f2_gn_20210101-20211230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-forecast-addElChichon/s2014-r2i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-forecast-addElChichon_s2014-r2i1p1f2_gn_20220101-20221230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-forecast-addElChichon/s2014-r2i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-forecast-addElChichon_s2014-r2i1p1f2_gn_20230101-20231230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-forecast-addElChichon/s2014-r2i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-forecast-addElChichon_s2014-r2i1p1f2_gn_20240101-20241230.nc", 
+        "/badc/cmip6/data/CMIP6/DCPP/MOHC/HadGEM3-GC31-MM/dcppC-forecast-addElChichon/s2014-r2i1p1f2/day/huss/gn/v20200908/huss_day_HadGEM3-GC31-MM_dcppC-forecast-addElChichon_s2014-r2i1p1f2_gn_20250101-20250330.nc"
+    ], 
+    "forcing_index": 2, 
+    "further_info_url": "https://furtherinfo.es-doc.org/CMIP6.MOHC.HadGEM3-GC31-MM.dcppC-forecast-addElChichon.s2014.r2i1p1f2", 
+    "initialization_index": 1, 
+    "institution_id": "MOHC", 
+    "mip_era": "CMIP6", 
+    "physics_index": 1, 
+    "realization_index": 2, 
+    "references": "Williams, K., et al: The Met Office Global Coupled model 3.0 and 3.1 (GC3.0 & GC3.1) configurations. JAMES, 10, 357-380 (2017).", 
+    "source_id": "HadGEM3-GC31-MM", 
+    "start_time": "2014-11-01T00:00:00Z", 
+    "sub_experiment_id": "s2014"
+}
